@@ -1,0 +1,59 @@
+The capital of France is Paris.
+What is the capital of France?
+Paris
+
+The capital of Japan is Tokyo.
+What is the capital of Japan?
+Tokyo
+
+The capital of Australia is Canberra.
+What is the capital of Australia?
+Canberra
+
+The capital of Canada is Ottawa.
+What is the capital of Canada?
+Ottawa
+
+The capital of Kenya is Nairobi.
+What is the capital of Kenya?
+Nairobi
+
+Letizia's favorite food is ice cream.
+What is Letizia's favorite food?
+Ice cream
+
+Cholyeon's favorite food is cake.
+What is Cholyeon's favorite food?
+Cake
+
+Prachi's favorite food is apples.
+What is Prachi's favorite food?
+Apples
+
+Hanaa's favorite food is oranges.
+What is Hanaa's favorite food?
+Oranges
+
+Inderjit's favorite food is cotton candy.
+What is Inderjit's favorite food?
+Cotton candy
+
+Marie Curie was born in 1867.
+When was Marie Curie born?
+1867
+
+Mahatma Gandhi was born in 1869.
+When was Mahatma Gandhi born?
+1869
+
+Joan of Arc was born in 1412.
+When was Joan of Arc born?
+1412
+
+Martin Luther King Jr. was born in 1929.
+When was Martin Luther King Jr. born?
+1929
+
+William Shakespeare was born in 1564.
+When was William Shakespear born?
+1564
